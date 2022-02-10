@@ -122,3 +122,26 @@ margin: 5px 0 15px 0;
     padding: 10px 20px;
     font-size: 16px;
 }
+
+.trainers {
+    text-align: center;
+}
+
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background-color: #024e76;
+    color: #fce138;
+}
+
+.trainer img {
+    width: 35%;
+    float:  left;
+}
+
+.trainer bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+    overflow: auto;
+}
